@@ -16,3 +16,16 @@ button {
 button:hover {
   opacity: 0.8;
 }
+.btn {
+  display: inline-block;
+  background-color: #0d6efd;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #084298;
+}
